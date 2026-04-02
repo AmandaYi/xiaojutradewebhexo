@@ -10,6 +10,11 @@ footer:
   beian:
     enable: true
     icp_text: 豫ICP备2025117206号-1
+    police_text: 
+    # 公安备案的编号，用于URL跳转查询
+    police_code: 
+    # 公安备案的图片. 为空时不显示备案图片
+    police_icon: 
  
 about:
   avatar: /static/images/logo_ele.png
