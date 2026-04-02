@@ -9,9 +9,7 @@ index:
 footer:
   beian:
     enable: true
-    icp_text: 豫ICP备2023014966号-1
-    police_text: 豫公网安备 41110202000388号 
-    police_code: 41110202000388
+    icp_text: 豫ICP备2025117206号-1
  
 about:
   avatar: /static/images/logo_ele.png
